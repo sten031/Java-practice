@@ -9,7 +9,7 @@ public class Chapter04 {
 	name1 = "Shingo tanaka";
 	System.out.println(name1);
 	//  再代入して出力
-	name1 = "Henkou Namae";
+	name1 = "Henkou Namae test";
 	System.out.println(name1);
 
 	System.out.println(LUCKY_NUMBER);
